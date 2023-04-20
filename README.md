@@ -1,2 +1,1 @@
 # Aimee
-![](imagenes/aimeegtz.png)
